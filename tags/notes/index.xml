@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>notes on Becoming The Unbeatable</title>
+    <link>https://immortal3.github.io/becoming-the-unbeatable/tags/notes/</link>
+    <description>Recent content in notes on Becoming The Unbeatable</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 07 Feb 2022 11:22:17 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stat Rethink</title>
+      <link>https://immortal3.github.io/becoming-the-unbeatable/notes/stat-rethink/</link>
+      <pubDate>Mon, 07 Feb 2022 11:22:17 +0530</pubDate>
+      
+      <guid>https://immortal3.github.io/becoming-the-unbeatable/notes/stat-rethink/</guid>
+      <description>Lecture notes on Statistical Rethinking L: 2 </description>
+    </item>
+    
+  </channel>
+</rss>

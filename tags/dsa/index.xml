@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LC on Becoming The Unbeatable</title>
-    <link>https://immortal3.github.io/becoming-the-unbeatable/tags/lc/</link>
-    <description>Recent content in LC on Becoming The Unbeatable</description>
+    <title>dsa on Becoming The Unbeatable</title>
+    <link>https://immortal3.github.io/becoming-the-unbeatable/tags/dsa/</link>
+    <description>Recent content in dsa on Becoming The Unbeatable</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Feb 2022 23:26:57 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/tags/lc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 23:26:57 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/tags/dsa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Becoming Leetcode Pro</title>
       <link>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-pro/</link>
@@ -14,16 +14,6 @@
       <guid>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-pro/</guid>
       <description>draft ongoing  Prefix-Suffix pattern In many problems, when we have to find something like number of triplets (x, y, z) on some conditions, we can use prefix-suffix pattern.
 general concept n = len(arr) prefix = [0] * (n+1) suffix = [0] * (n+1) ans = [0]*n # calculating prefix for i in range(1, n+1): prefix[i] = # calculation # calculating suffix for i in range(n, -1, -1): suffix[i] = # calculation # in many cases, we can do calculation in single loop # but, it always easy to calculate in two loops for i in range(n): ans[i] = combine(prefix[i], suffix[i+1]) problems 2179.</description>
-    </item>
-    
-    <item>
-      <title>LC contest problems summary</title>
-      <link>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-contest/</link>
-      <pubDate>Sun, 28 Nov 2021 17:09:55 +0530</pubDate>
-      
-      <guid>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-contest/</guid>
-      <description>Biweekly-66 (27th Nov, 2021)   2085. Count Common Words With One Occurrence  Hint 1 Use hashmap (Counter) 
-  2086. Minimum Number of Buckets Required to Collect Rainwater from Houses&amp;quot;  Hint 1 First put the bucket at best place and the remove those covering home.   Hint 2 Answer is (best bucket cnt + remaining house).   Hint 3 Corner case: check for each house is coverable</description>
     </item>
     
   </channel>
