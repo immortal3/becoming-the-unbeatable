@@ -12,7 +12,7 @@
       <pubDate>Sun, 28 Nov 2021 17:08:55 +0530</pubDate>
       
       <guid>https://immortal3.github.io/becoming-the-unbeatable/posts/hugo-cmds/</guid>
-      <description>Hugo build/export the site hugo -d ../becoming-the-unbeatable relative imports example: static\icons\favicon.png relative imports: icons\favicon.png
+      <description>run local server hugo server -D Hugo build/export the site hugo -d ../becoming-the-unbeatable relative imports example: static\icons\favicon.png relative imports: icons\favicon.png
 fix for label image icon: /becoming-the-unbeatable/small_icon.jpg instead of icon: small_icon.png
 github issue: https://github.com/adityatelange/hugo-PaperMod/issues/622</description>
     </item>

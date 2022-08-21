@@ -5,17 +5,7 @@
     <link>https://immortal3.github.io/becoming-the-unbeatable/tags/lc/</link>
     <description>Recent content in LC on Becoming The Unbeatable</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Feb 2022 23:26:57 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/tags/lc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Becoming Leetcode Pro</title>
-      <link>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-pro/</link>
-      <pubDate>Sat, 19 Feb 2022 23:26:57 +0530</pubDate>
-      
-      <guid>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-pro/</guid>
-      <description>draft ongoing  Prefix-Suffix pattern In many problems, when we have to find something like number of triplets (x, y, z) on some conditions, we can use prefix-suffix pattern.
-general concept n = len(arr) prefix = [0] * (n+1) suffix = [0] * (n+1) ans = [0]*n # calculating prefix for i in range(1, n+1): prefix[i] = # calculation # calculating suffix for i in range(n, -1, -1): suffix[i] = # calculation # in many cases, we can do calculation in single loop # but, it always easy to calculate in two loops for i in range(n): ans[i] = combine(prefix[i], suffix[i+1]) problems 2179.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 28 Nov 2021 17:09:55 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/tags/lc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LC contest problems summary</title>
       <link>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-contest/</link>
