@@ -5,24 +5,14 @@
     <link>https://immortal3.github.io/becoming-the-unbeatable/</link>
     <description>Recent content on Becoming The Unbeatable</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Feb 2022 11:22:17 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stat Rethink</title>
-      <link>https://immortal3.github.io/becoming-the-unbeatable/notes/stat-rethink/</link>
-      <pubDate>Mon, 07 Feb 2022 11:22:17 +0530</pubDate>
-      
-      <guid>https://immortal3.github.io/becoming-the-unbeatable/notes/stat-rethink/</guid>
-      <description>Lecture notes on Statistical Rethinking L: 2 -&amp;gt; -&amp;gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 28 Nov 2021 17:09:55 +0530</lastBuildDate><atom:link href="https://immortal3.github.io/becoming-the-unbeatable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LC contest problems summary</title>
       <link>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-contest/</link>
       <pubDate>Sun, 28 Nov 2021 17:09:55 +0530</pubDate>
       
       <guid>https://immortal3.github.io/becoming-the-unbeatable/posts/leetcode-contest/</guid>
-      <description>Biweekly-66 (27th Nov, 2021)   2085. Count Common Words With One Occurrence  Hint 1 Use hashmap (Counter) 
-  2086. Minimum Number of Buckets Required to Collect Rainwater from Houses&amp;quot;  Hint 1 First put the bucket at best place and the remove those covering home.   Hint 2 Answer is (best bucket cnt + remaining house).   Hint 3 Corner case: check for each house is coverable</description>
+      <description>Biweekly-66 (27th Nov, 2021) 2085. Count Common Words With One Occurrence Hint 1Use hashmap (Counter)2086. Minimum Number of Buckets Required to Collect Rainwater from Houses&amp;quot; Hint 1First put the bucket at best place and the remove those covering home.Hint 2Answer is (best bucket cnt + remaining house).Hint 3Corner case: check for each house is coverable2087. Minimum Cost Homecoming of a Robot in a Grid Hintdjikstra will fail.</description>
     </item>
     
     <item>
