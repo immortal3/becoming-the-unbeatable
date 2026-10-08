@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://immortal3.github.io/sitemap.xml
+Allow: /
+
+Sitemap: https://dipkumar.dev/sitemap.xml
